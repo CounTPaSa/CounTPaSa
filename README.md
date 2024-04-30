@@ -22,9 +22,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="250" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif"  />
-</div>
-
-###
